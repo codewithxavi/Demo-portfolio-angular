@@ -1,0 +1,21 @@
+[
+    {
+        "frase": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor.",
+        "imagen": "https://firebasestorage.googleapis.com/v0/b/prova-49427.appspot.com/o/team-1.jpg?alt=media&token=ddf59386-1450-406f-a880-75227a008cd3",
+        "nom": "Marc",
+        "titol": "Formador web",
+        "twitter": "@marcesteveg"
+    },
+    {
+        "frase": "Ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit.",
+        "nom": "Angelina B. Widow",
+        "titol": "Founder / CEO",
+        "twitter": "@angelinawidow"
+    },
+    {
+        "frase": "Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+        "nom": "Patrick Anderson",
+        "titol": "Art Director",
+        "twitter": "@patrickanderson"
+    }
+]

@@ -1,0 +1,9 @@
+{
+    "titulo": "Web App Angular",
+    "email": "test@gmail.com",
+    "nombre_corto": "Xavi",
+    "github": "https://github.com/codewithxavi",
+    "twitter": "https://twitter.com/codewithxavi",
+    "linkedin": "https://es.linkedin.com/in/javier-adrián-díez-34362b130",
+    "equipo_trabajo": ["Xavi", "Clara", "Aleix"]
+}
